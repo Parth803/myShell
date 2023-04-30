@@ -1,7 +1,6 @@
 Parth Patel - NetID: pp847
-Ernie Oscar Cangas - NetID: egc48
 
-Files included in myshell.tar
+Files included in repo
 	1. mysh.c
 		- main myshell file which contains the source code for the shell
 	2. mysh.h
