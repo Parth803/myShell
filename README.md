@@ -1,4 +1,6 @@
+# A fully functional shell with compatiblity with builtin commands (cd, pwd, exit) and executables.
 
+Author: Parth Patel
 
 Files included in repo
 	1. mysh.c
