@@ -1,4 +1,4 @@
-Parth Patel - NetID: pp847
+
 
 Files included in repo
 	1. mysh.c
